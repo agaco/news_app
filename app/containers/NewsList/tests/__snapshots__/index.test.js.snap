@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Container /> should render its heading 1`] = `
+<div>
+  <h1
+    class="H1-tncdg6-0 hpAKSC"
+  >
+    jhjkhhhh
+  </h1>
+  <p>
+    <button
+      class="ant-btn ant-btn-danger ant-btn-loading"
+      type="button"
+    >
+      <i
+        aria-label="icon: loading"
+        class="anticon anticon-loading"
+      >
+        <svg
+          aria-hidden="true"
+          class="anticon-spin"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 0 0-94.3-139.9 437.71 437.71 0 0 0-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </i>
+      <span>
+        Danger ~!!
+      </span>
+    </button>
+  </p>
+</div>
+`;
+
+exports[`<FeaturePage /> should render its heading 1`] = `
+<div>
+  <h1
+    class="H1-tncdg6-0 hpAKSC"
+  >
+    <span>
+      Features
+    </span>
+  </h1>
+  <ul
+    class="List-sc-1aai6b-0 gbaodI"
+  >
+    <li
+      class="ListItem-sc-27v6xc-0 fixMwZ"
+    >
+      <p
+        class="ListItemTitle-sc-1t4skn3-0 fWjsMZ"
+      >
+        <span>
+          Quick scaffolding
+        </span>
+      </p>
+      <p>
+        <span>
+          Automate the creation of components, containers, routes, selectors
+  and sagas - and their tests - right from the CLI!
+        </span>
+      </p>
+    </li>
+    <li
+      class="ListItem-sc-27v6xc-0 fixMwZ"
+    >
+      <p
+        class="ListItemTitle-sc-1t4skn3-0 fWjsMZ"
+      >
+        <span>
+          Instant feedback
+        </span>
+      </p>
+      <p>
+        <span>
+          
+      Enjoy the best DX and code your app at the speed of thought! Your
+    saved changes to the CSS and JS are reflected instantaneously
+    without refreshing the page. Preserve application state even when
+    you update something in the underlying code!
+    
+        </span>
+      </p>
+    </li>
+    <li
+      class="ListItem-sc-27v6xc-0 fixMwZ"
+    >
+      <p
+        class="ListItemTitle-sc-1t4skn3-0 fWjsMZ"
+      >
+        <span>
+          Industry-standard routing
+        </span>
+      </p>
+      <p>
+        <span>
+          
+      Write composable CSS that's co-located with your components for
+    complete modularity. Unique generated class names keep the
+    specificity low while eliminating style clashes. Ship only the
+    styles that are on the page for the best performance.
+    
+        </span>
+      </p>
+    </li>
+    <li
+      class="ListItem-sc-27v6xc-0 fixMwZ"
+    >
+      <p
+        class="ListItemTitle-sc-1t4skn3-0 fWjsMZ"
+      >
+        <span>
+          Offline-first
+        </span>
+      </p>
+      <p>
+        <span>
+          
+      The next frontier in performant web apps: availability without a
+      network connection from the instant your users load the app.
+    
+        </span>
+      </p>
+    </li>
+    <li
+      class="ListItem-sc-27v6xc-0 fixMwZ"
+    >
+      <p
+        class="ListItemTitle-sc-1t4skn3-0 fWjsMZ"
+      >
+        <span>
+          Complete i18n Standard Internationalization & Pluralization
+        </span>
+      </p>
+      <p>
+        <span>
+          Scalable apps need to support multiple languages, easily add and support multiple languages with \`react-intl\`.
+        </span>
+      </p>
+    </li>
+  </ul>
+</div>
+`;
